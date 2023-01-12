@@ -11,11 +11,14 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Docker and Nextjs** - 👨‍💻 Looking into [AI/ML and
-Devops](AI/ML and Devops) - 📝 I regularly write articles on
-[https://abishekdascs.hashnode.dev/](https://abishekdascs.hashnode.dev/) - 💬
-Ask me about **React, and Nodejs** - 📫 How to reach me
-**abishekdascs@gmail.com**
+- 🌱 I’m currently learning **Docker and Nextjs** 
+- 👨‍💻 Looking into AI/ML and Devops
+- 📝 I regularly write articles on
+[https://abishekdascs.hashnode.dev/](https://abishekdascs.hashnode.dev/)
+- 💬 Ask me about **React, and Nodejs** 
+- 📫 How to reach me **abishekdascs@gmail.com**
+
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,6 +55,8 @@ Ask me about **React, and Nodejs** - 📫 How to reach me
       width="40"
   /></a>
 </p>
+
+</br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -324,6 +329,8 @@ Ask me about **React, and Nodejs** - 📫 How to reach me
     />
   </a>
 </p>
+
+</br>
 
 <p>
   <img
