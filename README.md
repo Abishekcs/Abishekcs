@@ -11,8 +11,8 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Docker and Nextjs** 
-- 👨‍💻 Looking into AI/ML and Devops
+- 🌱 I’m currently learning **Nextjs** 
+- 👨‍💻 Looking into AI/ML 
 - 📝 I regularly write articles on
 [https://abishekdascs.hashnode.dev/](https://abishekdascs.hashnode.dev/)
 - 💬 Ask me about **React, and Nodejs** 
