@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abishek Das</h1>
 <h3 align="center">
-  A passionate Full-stack Developer and a Computer Science Nerd
+ A Computer Science Nerd
 </h3>
 
 <p align="left">
@@ -12,7 +12,7 @@
 </p>
 
 - 🌱 I’m currently learning **Nextjs** 
-- 👨‍💻 Looking into AI/ML 
+- 👨‍💻 Looking into Deep Learning.
 - 📝 I regularly write articles on
 [https://abishekdascs.hashnode.dev/](https://abishekdascs.hashnode.dev/)
 - 💬 Ask me about **React, and Nodejs** 
