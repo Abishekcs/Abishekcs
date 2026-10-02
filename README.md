@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Abhishek  a systems and backend engineer with a growing interest in compilers, and an active open source contributor. Most of that work lives across two places: [Rage](https://github.com/rage-rb/rage), an async Ruby framework, and the [Wiki Education Dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard), a Rails app used by 191,399+ educators. Right now I'm heads-down on [Rage's observability project](https://github.com/rage-rb/rage/issues/379), trying to work out how to expose event-loop lag natively from Iodine instead of relying on instrumentation.
+I'm Abhishek  a systems and backend engineer with a growing interest in compilers, and an active open source contributor. Most of that work lives across two places: [Rage](https://github.com/rage-rb/rage), an async Ruby framework, and the [Wiki Education Dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard), a Rails app used by educators. Right now I'm heads-down on [Rage's observability project](https://github.com/rage-rb/rage/issues/379), trying to work out how to expose event-loop lag natively from Iodine instead of relying on instrumentation.
 
 ### Rage (Fiber-based Ruby web framework combining Rails ergonomics with a unified runtime)
 
