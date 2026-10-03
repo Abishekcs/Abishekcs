@@ -16,8 +16,7 @@ From the parser I drifted into the framework's background task system, adding [n
 
 If Rage is where I get to build things from nothing, WikiEduDashboard is where I've spent most of my time chasing down things that were already broken, just not obviously. A lot of my 120+ merged PRs there start the same way: a page is slow, and it turns out to be N+1 queries hiding in surveys, statistics, or article data. One report page went from roughly 20 seconds to under a second once I found and fixed the culprit. The same instinct led me to the platform's automated monitor services — the GA nomination and Discretionary Sanctions checks, among others which were scanning far more of the database than they needed to until I scoped their queries to the right namespaces.
 
-The most satisfying find, though, was tracing the platform's recurring downtime back to a single unbounded pagination query and fixing it with deferred-join pagination instead the kind of bug that's easy to shrug off as "just how the app is" until you actually go looking. Around the same time, I migrated the app's Wikipedia/Wikimedia authentication from OAuth 1.0 to OAuth 2.0 ahead of Wikimedia's own deprecation deadline, so login didn't quietly stop working for anyone.
-
+The most satisfying find, though, was tracing the platform's recurring downtime back to a single unbounded pagination query and fixing it with deferred-join pagination instead the kind of bug that's easy to shrug off as "just how the app is" until you actually go looking. Around the same time, I migrated the app's Wikipedia/Wikimedia authentication from OAuth 1.0 to OAuth 2.0.
 It's not all performance and plumbing I've shipped a News feed and an admin Notes system that course organizers use directly, and untangled a string of Redux state-mutation bugs that had been quietly corrupting what people saw in the timeline and calendar views.
 
 ---
